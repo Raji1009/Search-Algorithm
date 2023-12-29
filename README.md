@@ -114,13 +114,13 @@ else:
 ## Output
 
 i)	#Use a linear search method to match the item in a list.
-![output](image.png)
+![Screenshot 2023-12-29 172312](https://github.com/Raji1009/Search-Algorithm/assets/89059861/4fcefa97-cc89-4dcb-b773-f98c9866ce8f)
 
 ii)	# Find the element in a list using Binary Search(Iterative Method).
-![output](image-1.png)
+![Screenshot 2023-12-29 172359](https://github.com/Raji1009/Search-Algorithm/assets/89059861/327e4e4d-61a1-4c4f-b408-912a099a6465)
 
 iii)	# Find the element in a list using Binary Search (recursive Method).
-![output](image-2.png)
+![Screenshot 2023-12-29 172429](https://github.com/Raji1009/Search-Algorithm/assets/89059861/d7560125-0186-43e5-acea-ad7d0889da9f)
 
 
 ## Result
