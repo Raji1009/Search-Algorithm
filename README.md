@@ -105,12 +105,13 @@ else:
 
 ## Output
 i) Use a linear search method to match the item in a list.
-
+![image](https://github.com/Raji1009/Search-Algorithm/assets/89059861/67ecb7ac-54e0-4c98-92be-0d8b26ff1da2)
 
 ii) Find the element in a list using Binary Search(Iterative Method).
-
+![image](https://github.com/Raji1009/Search-Algorithm/assets/89059861/88f1a71a-ef0b-40a8-b7ec-4d25cef91c80)
 
 iii) Find the element in a list using Binary Search (recursive Method).
+![image](https://github.com/Raji1009/Search-Algorithm/assets/89059861/b17e9c3e-8131-41f7-a56b-f4291f0709e2)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
